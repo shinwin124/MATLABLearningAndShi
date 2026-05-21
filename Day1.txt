@@ -1,0 +1,66 @@
+Began working on MATLAB Certification. Specifically, becoming an official MATLAB Associate. Acquired topics tested (listed below) and practice questions. (Link below)
+
+Began studying the practice questions to see what kind of questions I will be working on. 
+
+https://www.mathworks.com/learn/training/certification/exam-questions.html (Link to practice questions)
+
+Working with the MATLAB User Interface
+• Identify the core components of the MATLAB desktop environment and explain their purpose
+• Interactively import data into the MATLAB environment
+• Examine data variables using the Variable Editor
+• Create and customize data plots using Plot Tools
+• Save and load MATLAB variables to and from disk interactively
+Variables and Commands
+• Issue MATLAB commands in the Command Window
+• Create new variables, and apply arithmetic operations and functions to existing variables
+• Create text variables and arrays of text
+• Create two-dimensional plots of vector data
+• Obtain help on MATLAB commands and navigate the documentation browser
+• Label plots and adjust plot elements such as line style and color
+• Use the Command History and the MATLAB Editor to write, save, and execute script files
+• Use code sections to partition large scripts into smaller parts
+• Run a script file from the Command Window
+Analysis and Visualization with Vectors
+• Create vector variables, and apply functions and array operations to vectors
+• Access and manipulate the data stored in vectors
+• Make multiple plots on the same axes and within separate windows
+• Write comments in code files to provide user help and increase program readability
+• Publish script files to a variety of file formats
+Analysis and Visualization with Matrices
+• Create matrix variables
+• Access and manipulate the data stored in matrices using row-column indexing
+• Create larger array variables by combining smaller elements and using matrix-creation functions
+• Perform matrix and array (element-wise) operations
+• Compute basic descriptive statistics for a matrix of data
+• Distinguish between the behavior of mathematical and statistical functions in MATLAB
+• Plot columns of a matrix as independent variables
+• Visualize matrix data in two and three dimensions
+Dates and Times
+• Create variables to represent dates and time durations
+• Perform arithmetic operations on dates and durations.
+• Extract components of dates and durations as numeric variables
+• Modify the format used to display and plot dates and durations
+Tables of Data
+• Import data into a MATLAB table
+• Access and manipulate the data stored in a table
+Conditional Data Selection
+• Perform logical operations on variables and create logical variables
+• Access and manipulate the data stored in variables using logical indexing
+• Perform logical operations on dates and durations
+Analyzing Data from Files
+• Import data from commonly used file formats programmatically
+• Convert between numeric and character data types
+• Plot a function by generating data points for a given range
+• Create textual displays and plot annotations using dynamically calculated values
+• Customize plot elements such as line width and axis tick labels
+• Remove or replace incorrect or missing values in a data set
+• Combine multiple MATLAB function calls to perform specific data-analysis tasks, such as polynomial interpolation
+Flow Control
+• Create script files that obtain user input and display output
+• Use loops and logical branching in code files for automation and decision making
+Writing Functions
+• Create and call a function file
+• Set the MATLAB path to ensure a code file is visible
+• Determine which file or variable is being accessed when a MATLAB command is issued
+• Use diagnostic tools to find and correct problems in code files
+• Store, access, and manipulate data in a structure
