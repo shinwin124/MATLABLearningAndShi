@@ -1,0 +1,9 @@
+DAY 2:
+
+Continued work on learning. Began with basics.
+
+Learned difference between command window, workspace, and variable editor. Workspace and variable editor are clearable with functions "clear" and "clc"
+
+Saving/loading matlab files is pretty easy, just go to the file button on the top left and click it, then move down to "save as" and save as a matlab file. To load a matlab file, just do the same thing but press open and click your MATLAB file instead.
+
+Making new matrix: write as "[0, 0, 0; 0, 0, 0;0, 0,0] which is a 3x3 matrix of only zeroes.
